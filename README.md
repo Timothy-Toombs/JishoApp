@@ -1,5 +1,7 @@
 # Jisho
 
+THIS FORK IS NO LONGER IN DEVELOPMENT. ALL WORK HAS BEEN MERGED INTO THE MAIN BRANCH.
+
 This fork is dedicated to making the application cross-platform instead of Android-exclusive.
 
 A minimalistic app used to access the vast jisho.org from your mobile device. 
